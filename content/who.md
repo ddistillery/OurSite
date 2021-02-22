@@ -13,7 +13,7 @@ Design Distillery is a kick ass design office that can do stuff....I mean real s
 He went on to pursue a Masters of Architecture degree in Toronto where his studies led him to conducting research in Vancouver, Toronto, and Brazil.
 
 ![Mark Friesner](/MarkFriesner_icon.jpg)
-**Mark Friesner**, MIndD, MArch, BEnvD - Partner
+**Mark L. Friesner**, MIndD, MArch, BEnvD - Partner
 > &nbsp;Mark brings to the Studio backgrounds in both Architecture and Industrial design, which he mixes with contemporary building science to push each new project further than the last. Mark likes to balance time spent behind a desk with time spent getting his hands dirty; whether it's building something new or fixing something old. And when the lighting is right you can often find him around town with a camera over one eye.
 
 After first meeting in the Master of Architecture program as trailblazers in the alpha class at Ryerson Univeristy in Toronto, Jorge and Mark's paths forked individually building careers in different design offices across the city. Design Distillery was born as an opportunity to pool our combined experiences and enrich them with positive fun energy whenever and as often as possible.
