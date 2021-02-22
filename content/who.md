@@ -8,7 +8,7 @@ author = ""
 Design Distillery is a kick ass design office that can do stuff....I mean real stuff!!!  (So now you know!)
 
 ![Jorge Silva](/JorgeSilva_icon.jpg)
-**Jorge Silvoniiiii**, OAA, MArch, BArchSci - Partner  
+**Jorge Silva**, OAA, MArch, BArchSci - Partner  
 > &nbsp;Jorge is a designer and architect based in Toronto. He began his career working as a draftsman and junior building technologist in Vancouver on a variety of large scale projects in the commercial, healthcare, transportation and residential sectors.
 He went on to pursue a Masters of Architecture degree in Toronto where his studies led him to conducting research in Vancouver, Toronto, and Brazil.
 
