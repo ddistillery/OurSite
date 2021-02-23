@@ -5,7 +5,7 @@ author = ""
 +++
 
 
-Design Distillery is a kick ass design office that can do stuff....I mean real stuff!!!  (So now you know!)
+Design Distillery is a kick ass design office. We take the the practice of design very seriously, but also realize that the work is enrichened when maintain the positive and fun energy as a part of our process.
 
 ![Jorge Silva](/JorgeSilva_icon.jpg)
 **Jorge Silva**, OAA, MArch, BArchSci  
