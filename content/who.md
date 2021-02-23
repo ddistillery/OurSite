@@ -5,7 +5,7 @@ author = ""
 +++
 
 
-Design Distillery is a kick ass design office. We take the practice and the rigor of design very seriously. However, we believe that truly compelling, engaging, and fun design cannot be achieved in a sterile environment; they need additional life infused into them throughout the process. These intangible elements are really the secret sauce, the soul of our projects, which we nurture into our design process by maintaining  a positive and fun studio energy which carries over into the work itself.
+Design Distillery is a kick ass design studio. We take the practice and the rigor of design very seriously. However, we believe that truly compelling, engaging, and fun design cannot be achieved in a sterile environment; they need additional life infused into them throughout the process. These intangible elements are really the secret sauce, the soul of our projects, which we nurture into our design process by maintaining  a positive and fun studio energy which carries over into the work itself.
 
 ![Jorge Silva](/JorgeSilva_icon.jpg)
 **Jorge Silva**, OAA, MArch, BArchSci  
