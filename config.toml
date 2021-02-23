@@ -99,6 +99,11 @@ disableHugoGeneratorInject = false
     maxWidth = "100%"
     maxHeight = "auto"
 
+  [params.ddtitle]
+    path     = "/Logo-inline_FULL.png"
+    alt      = "Design Distillery"
+    maxWidth = "100%"
+    maxHeight = "auto"
 
   # Social icons
   [[params.social]]
