@@ -10,65 +10,60 @@ We wear many hats in this office. Much of this is stems from a broad base of roo
 
 These are some of the hats we wear the most around here:
 
-
 ## Architecture
 
-- Residential 
+- **Residential**
   - This is a broad term.
 
-- Commercial
+- **Commercial**
   - Also broad
 
-- Coordination
+- **Coordination**
   - We work with consultants whenever it can help the project.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
 
-## Product Design
-- one-off
+## Industrial Design
 
-- mass production
+- **custom furniture and millwork design**
 
-- research and design
+  - one-off
+
+  - mass production
+
+- **products**
+
+  - one-off
+
+  - mass production
+
 
 ## Building Science
-- performance design
+  *This sounds like a no-brainer when it comes to designing your forever home...however, in our experience sound better performance within the walls is the first thing that gets cut for more expensive material finishes that will been seen. The science develops faster than minimum code. We sit down with our clients and have a frank discussion about budgets and guide them on important places to invest.*
 
-- reduced environmental impact
+- **performance materials and assembly design**
 
-- theoretical vs. testing
+- **reduced environmental impact**
+
+- **research and theory are a great place to start but we also like to test**
 
 ---
 
-# Should we talk?
+# Are we a good fit?
 
 > So you want to do something interesting, but now what?  Is you home no longer working for you (or did it ever)?  Is it a small tweak or do you want to start from scratch?  
->> **We should talk.**
+>> [**We should talk.**](mailto:contact@design-distillery.ca)
+
 
 > Do you want a completely tailored solution down to every material choice?  Or do you just need a design that wooks and a building permit so you and your builder can pick up from there?Are you somewhere in between?  
->> **We should talk.**
+>> [**We should talk.**](mailto:contact@design-distillery.ca)
 
 > Do you have an idea for a custom piece of furnature or built-in or want custom door knobs or cabinet pulls?  
->> **We should talk.**
+>> [**We should talk.**](mailto:contact@design-distillery.ca)
 
 > If you don't know what you want yet, but want some guidence.  
->> **We should talk.**
+>> [**We should talk.**](mailto:contact@design-distillery.ca)
 
 > Do you want something cookie-cutter that is the same as your neighbours and friends?  
 > You should call someone else.  
 > `However if you want a custom design solution then you have come to the right place.`  
->> **We should talk.**
-
-
-
-#### Header 4
-
-Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.
-
-- Maecenas elementum vitae nibh vitae porttitor.
-- Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.
-- Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.
-- Etiam vitae enim quis velit lobortis placerat a ut sem.
-  - Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.
-  - Praesent fermentum orci quis leo facilisis posuere.
-
-Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.
+>> [**We should talk.**](mailto:contact@design-distillery.ca)
