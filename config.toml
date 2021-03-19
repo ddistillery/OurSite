@@ -44,7 +44,8 @@ buildFuture  = false
 buildExpired = false
 canonifyURLs = true
 
-enableRobotsTXT = true
+enableRobotsTXT = false
+# remeber to change robots back to TRUE!!!
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
@@ -142,3 +143,8 @@ disableHugoGeneratorInject = false
         name = "How to connect."
         url = "/contact"
         weight = 3
+      [[languages.en.menu.main]]
+        identifier = "learned"
+        name = "Learn."
+        url = "tags/learn/"
+        weight = 4

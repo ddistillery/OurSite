@@ -10,19 +10,31 @@ We wear many hats in this office. Much of this is stems from a broad base of roo
 
 These are some of the hats we wear the most around here:
 
-## Architecture
+# Architecture
+- ## Residential
+  - **SINGLE FAMILY**
+    - Typically this falls into two categories (new builds and renovations/additions):
+      * **New build**
+        - You have a site that you want to build a house on or you would like to replace an existing house.
+      * **Renovation / Addition**
+        - You have an existing house that is just not working for you personal or family needs. You can reconfigure the building envelope you have now, or you could also potentially extend your living space outward or even upward.
+  - **DUAL FAMILY**
+    - This is a trend we are seeing more of with the skyrocketing cost of real estate. Two families are buying a house together and reconfiguring it to contain two seperate units with the potential to split the space load for utility and storage common spaces.  
+  - **MULTI FAMILY**
+    - Typically this falls into the realm of developers
 
-- **Residential**
-  - This is a broad term.
-
-- **Commercial**
+---
+- ## Commercial
   - Also broad
 
-- **Coordination**
+---
+- ## Coordination
   - We work with consultants whenever it can help the project.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
 
-## Industrial Design
+
+
+# Industrial Design
 
 - **custom furniture and millwork design**
 
@@ -37,7 +49,7 @@ These are some of the hats we wear the most around here:
   - mass production
 
 
-## Building Science
+# Building Science
   *This sounds like a no-brainer when it comes to designing your forever home...however, in our experience sound better performance within the walls is the first thing that gets cut for more expensive material finishes that will been seen. The science develops faster than minimum code. We sit down with our clients and have a frank discussion about budgets and guide them on important places to invest.*
 
 - **performance materials and assembly design**

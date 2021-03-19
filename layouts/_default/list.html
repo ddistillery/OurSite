@@ -2,8 +2,10 @@
     {{ $paginator := .Paginate .Data.Pages }}
     
     <main class="posts">
-        <img src= "/JorgeSilva_icon.jpg" alt="Jorge" width="200"
-        >
+        <center>
+            <img src= "/DDbeakerLogo.jpg" alt="Design Distillery beaker logo" width="300"/>  
+        </center>
+       
         <h1>{{ .Title }}</h1>
 
         {{ if .Content }}
