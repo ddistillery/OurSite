@@ -58,24 +58,18 @@ These are some of the hats we wear the most around here:
 
 - **research and theory are a great place to start but we also like to test**
 
----
 
-# Are we a good fit?
+# Pre-purchase Assessments *(fast!)*
 
-> So you want to do something interesting, but now what?  Is you home no longer working for you (or did it ever)?  Is it a small tweak or do you want to start from scratch?  
->> [**We should talk.**](mailto:contact@design-distillery.ca)
+*Did you find a house in a neighbourrhood that you love and really want to put an offer in on but are worried aboiut what you can build on that location or if thee are any other benefits/issues that you are likely not seeing in the listing...we can dig deeper than most*
 
+- **What we would look for:**
+  - Current Zoning
+  - Current Open Permits
+  - existing Easments and Rights-of-Way over that property
+  - Property areas, setbacks, height resetrictions, allowable coverage.
+    - What can you potentially build there and stay within the Zoning ByLaw
+    - What will push you over what is allowed and may require Committee of Adjustmet approval.
+  - Is any part of the property protected (Urban Forestry; Ravine; Archeological Significant area) in a manner that could affect your plans to build?
 
-> Do you want a completely tailored solution down to every material choice?  Or do you just need a design that wooks and a building permit so you and your builder can pick up from there?Are you somewhere in between?  
->> [**We should talk.**](mailto:contact@design-distillery.ca)
-
-> Do you have an idea for a custom piece of furnature or built-in or want custom door knobs or cabinet pulls?  
->> [**We should talk.**](mailto:contact@design-distillery.ca)
-
-> If you don't know what you want yet, but want some guidence.  
->> [**We should talk.**](mailto:contact@design-distillery.ca)
-
-> Do you want something cookie-cutter that is the same as your neighbours and friends?  
-> You should call someone else.  
-> `However if you want a custom design solution then you have come to the right place.`  
->> [**We should talk.**](mailto:contact@design-distillery.ca)
+- **We will credit you all fees paid!** If you do purchase the home and would like to hire us for the remainder of the design and permit work we would be happy to apply all applicable fees as credit towards that work.
