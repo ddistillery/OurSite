@@ -11,7 +11,7 @@ We wear many hats in this office. Much of this is stems from a broad base of roo
 These are some of the hats we wear the most around here:
 
 # Architecture
-- ## Residential
+- ### RESIDENTIAL
   - **SINGLE FAMILY**
     - Typically this falls into two categories (new builds and renovations/additions):
       * **New build**
@@ -24,11 +24,11 @@ These are some of the hats we wear the most around here:
     - Typically this falls into the realm of developers
 
 ---
-- ## Commercial
+- ### Commercial
   - Also broad
 
 ---
-- ## Coordination
+- ### Coordination
   - We work with consultants whenever it can help the project.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
 
