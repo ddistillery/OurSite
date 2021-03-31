@@ -38,7 +38,7 @@ These are some of the hats we wear the most around here:
 
 - **custom furniture and millwork design**
 
-  - one-off
+  - Have you ever wanted....one-off
 
   - mass production
 
@@ -73,3 +73,5 @@ These are some of the hats we wear the most around here:
   - Is any part of the property protected (Urban Forestry; Ravine; Archeological Significant area) in a manner that could affect your plans to build?
 
 - **We will credit you all fees paid!** If you do purchase the home and would like to hire us for the remainder of the design and permit work we would be happy to apply all applicable fees as credit towards that work.
+
+[- back to top -](#)
