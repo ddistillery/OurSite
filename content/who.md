@@ -5,7 +5,10 @@ author = ""
 +++
 
 
-We save the sugar-coating for our donuts; **Design Distillery is a design studio that believes in shooting straight and having fun.** We take the practice and the rigor of design very seriously. However, we believe that truly compelling, engaging, and fun designs cannot be achieved in a sterile environment; they need additional life infused into them throughout the process. These intangible elements are really the secret sauce - the soul of our projects - which we nurture into our design process by maintaining  a positive and fun studio energy which percolates into the work itself.
+We save the sugar-coating for our donuts; **Design Distillery is a design studio that believes in honest dialogue, sweating through the details, and having fun.** We take the practice and the rigor of design very seriously. However, we believe that truly compelling, engaging, and fun designs cannot be achieved in a sterile environment; they need additional life infused into them throughout the process. These intangible elements are the underlaying soul of our projects, which we nurture into our design process by maintaining a positive and fun studio energy which percolates into the work itself.
+
+<!--We save the sugar-coating for our donuts; **Design Distillery is a design studio that believes in honest dialogue, sweating through the details, and having fun.** We take the practice and the rigor of design very seriously. However, we believe that truly compelling, engaging, and fun designs cannot be achieved in a sterile environment; they need additional life infused into them throughout the process. These intangible elements are really the secret sauce - the soul of our projects - which we nurture into our design process by maintaining a positive and fun studio energy which percolates into the work itself.
+-->
 
 ![Jorge Silva](/JorgeSilva_icon.jpg)
 **Jorge Silva**, Architect OAA, MArch, BArchSci  
