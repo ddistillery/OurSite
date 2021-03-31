@@ -48,3 +48,4 @@ The theme includes:
 - nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 -->
 
+[^ go back to top of page ^](#)
