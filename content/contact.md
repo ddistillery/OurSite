@@ -3,12 +3,18 @@ title: "How do we connect?"
 date: ""
 author: ""
 ---
+# Heading HEADING 1
+## Heading HEADING 2
+## Heading HEADING 2
+### Heading HEADING 3
+#### Heading HEADING 4
+##### Heading HEADING 5
+###### Heading HEADING 6
 
-
-### email
+## email
 > &nbsp;[contact@design-distillery.ca](mailto:contact@design-distillery.ca)
 
-### phone
+## phone
 
 > &nbsp;[Jorge. 416 876 7229](tel:+14168767229)    
 > &nbsp;[Mark. 647 702 1231](tel:+16477021231)

@@ -4,8 +4,6 @@ date: ""
 author: ""
 ---
 
-
-
 We wear many hats in this office. Much of this is stems from a broad base of root interests and experience that has grown and enrichened as we have advanced in our professional careers. 
 
 These are some of the hats we wear the most around here:
@@ -27,6 +25,18 @@ These are some of the hats we wear the most around here:
 - ### Commercial
   - Also broad
 
+
+
+<details>
+<summary markdown="span">First level collapsible item</summary>
+**Lorem ipsum dolor sit amet...**
+<details>
+<summary markdown="span">Second level collapsible item</summary>
+*Sed ut perspiciatis unde omnis iste natus...*
+</details>
+</details>
+
+
 ---
 - ### Coordination
   - We work with consultants whenever it can help the project.
@@ -38,7 +48,7 @@ These are some of the hats we wear the most around here:
 
 - **custom furniture and millwork design**
 
-  - There are many options here...Have you ever wanted....one-off
+  - This is a service that we sometimes provide our residential and commercial clients. However if you already have the canvas we would be happy to design the pieces to populate them for you. There are many options for fabricating/manufacturing them depending on the scale and budget, but we can help you navigate that as well using our existing contacts or helping you vet new ones.
 
   - mass production
 
