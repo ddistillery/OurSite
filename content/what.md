@@ -38,7 +38,7 @@ These are some of the hats we wear the most around here:
 
 - **custom furniture and millwork design**
 
-  - Have you ever wanted....one-off
+  - There are many options here...Have you ever wanted....one-off
 
   - mass production
 
