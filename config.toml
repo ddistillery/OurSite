@@ -143,8 +143,8 @@ disableHugoGeneratorInject = false
         name = "How to connect."
         url = "/contact"
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "learned"
-        name = "Learn."
-        url = "tags/learn/"
-        weight = 4
+#      [[languages.en.menu.main]]
+#        identifier = "learned"
+#        name = "Learn."
+#        url = "tags/learn/"
+#        weight = 4

@@ -31,7 +31,8 @@ We wear many hats in this office. Much of this is stems from a broad base of roo
   - Retail spaces
     - If you have mutiple locations we can also work with you to create fixtures and furniture that speak to your brand and can be used cohesively across locations
   - Hospitality
-  - Food and beverage spaces
+    - Hotel
+    - Food and beverage spaces
 
 ---
 - ### INDUSTRIAL
