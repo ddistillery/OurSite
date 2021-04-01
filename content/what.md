@@ -25,8 +25,13 @@ We wear many hats in this office. Much of this is stems from a broad base of roo
 
 ---
 - ### COMMERCIAL
-  *Though  sounds like a no-brainer when it comes to designing your forever home...however, in our experience sound better performance within the walls is the first thing that gets cut for more expensive material finishes that will been seen. The science develops faster than minimum code. We sit down with our clients and have a frank discussion about budgets and guide them on important places to invest.*
-  - Also broad
+  *This is a broad area as well. If you are looking at this section you likely already have some previous experience we can build on. However if this is your first time designing and building our your new commercial space don't worry, we will work with you to get from concept to opening.*
+  - Office fitouts
+  - Retail infrastructure
+  - Retail spaces
+    - If you have mutiple locations we can also work with you to create fixtures and furniture that speak to your brand and can be used cohesively across locations
+  - Hospitality
+  - Food and beverage spaces
 
 ---
 - ### INDUSTRIAL
