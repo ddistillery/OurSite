@@ -6,7 +6,7 @@ author: ""
 
 We wear many hats in this office. Much of this is stems from a broad base of root interests and experience that has grown and enrichened as we have advanced in our professional careers. 
 
-These are some of the hats we wear the most around here:
+**These are some of the hats we wear the most around here** *(without trying to emphasize the ones we would like to wear more of)***:**
 
 # Architecture
 - ### RESIDENTIAL
@@ -19,28 +19,26 @@ These are some of the hats we wear the most around here:
   - **DUAL FAMILY**
     - This is a trend we are seeing more of with the skyrocketing cost of real estate. Two families are buying a house together and reconfiguring it to contain two seperate units with the potential to split the space load for utility and storage common spaces.  
   - **MULTI FAMILY**
-    - Typically this falls into the realm of developers
+    - Typically this falls into the realm of developers, however some ambitious potential homeowners do not accept that they have been priced out of the real estate market and forge a path forward. With pooled resourses and a sense of unconventional adventure there are some real interesting optorunities to be found. Give us a call if you are part of one of these groups. We would love to dig in with you and help you navigate the terain.
+    - There are also many old urban rooming houses that are slowly being convered by investors into single family dwellings. There are other ways forward that can still turn investors a profit when executed well. If you have existing multi-unit status already grandfathered-in why wouldn't you take full advantage of the value in that? We can help you investigate what is possible and design you a solution that leverages the added value inherint in your legal-non-conforming status.
+
 
 ---
-- ### Commercial
+- ### COMMERCIAL
+  *Though  sounds like a no-brainer when it comes to designing your forever home...however, in our experience sound better performance within the walls is the first thing that gets cut for more expensive material finishes that will been seen. The science develops faster than minimum code. We sit down with our clients and have a frank discussion about budgets and guide them on important places to invest.*
   - Also broad
 
-
-
-<details>
-<summary markdown="span">First level collapsible item</summary>
-**Lorem ipsum dolor sit amet...**
-<details>
-<summary markdown="span">Second level collapsible item</summary>
-*Sed ut perspiciatis unde omnis iste natus...*
-</details>
-</details>
+---
+- ### INDUSTRIAL
+  *We won't spend too much time on this because it is such a rare animal, but if you have small business that would like to begin manufactururing within the urban fabric of the City in the dwindlinging industrial zones, call us and let's work through designing you a space to suit your needs and budget. These types of spaces and communities are vital to our neighbourhoods and shouldn't all slowly be rezoned for another condo tower.* 
 
 
 ---
 - ### Coordination
   - We work with consultants whenever it can help the project.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
+  - We have worked with some really great Structural and Mechanical Engineers whose creativite problem solving skills and experience are vital to every project. 
+  - Coordination with these consultants should start early enough in the design process to be integral rather than an after-though, and will continue well into contruction.
 
 
 

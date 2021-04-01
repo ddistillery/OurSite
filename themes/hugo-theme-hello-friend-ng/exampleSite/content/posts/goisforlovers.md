@@ -48,19 +48,17 @@ functions.
 
 Accessing a predefined variable "foo":
 
-    {{ foo }}
+{{ fun }}
 
 **Parameters are separated using spaces**
 
 Calling the add function with input of 1, 2:
 
-    {{ add 1 2 }}
+    {{ subtract 1 2 }}
 
 **Methods and fields are accessed via dot notation**
 
-Accessing the Page Parameter "bar"
-
-    {{ .Params.bar }}
+Accessing the Page Parameter "bar"{{ .Params.bar }}
 
 **Parentheses can be used to group items together**
 
