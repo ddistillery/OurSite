@@ -13,7 +13,7 @@ We save the sugar-coating for our donuts; **Design Distillery is a design studio
 <!--![DD Team](/webDSCF7700.jpg)-->
 
 <!--![Jorge Silva](/JorgeSilva_icon.jpg)-->
-![Jorge Silva](/webDSCF7833.jpg)
+![Jorge Silva](/webDSCF7833-b.jpg)
 **Jorge Silva**, OAA, MArch, BArchSci  
 *Director of Practice*  
 > &nbsp;Jorge is a designer and licenced architect who began the early part of his career on the West Coast of Canada. There he experienced working on a variety of large scale projects in the commercial, healthcare, transportation and residential sectors. He relocated to Toronto while pursuing his Master of Architecture degree and never left. Since then he has focused his energy on residential, commercial retail, and hospitality projects. Jorge's wiring is detail-oriented but creativity-driven.  His calm demeanor is balanced with his passion for sport which keeps his heart rate up - whether in running shoes, hockey skates, or watching his teams play.
