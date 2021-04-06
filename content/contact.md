@@ -14,6 +14,7 @@ author: ""
  ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mark &nbsp;&nbsp;[647 702 1231](tel:+16477021231)
 
 ---
+![DD Team](/webDSCF7700.jpg)
 `Let's do something interesting together.`
 
 ---
