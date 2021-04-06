@@ -5,13 +5,13 @@ author: ""
 ---
 
 ### email:
- ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@design-distillery.ca](mailto:contact@design-distillery.ca)
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@design-distillery.ca](mailto:contact@design-distillery.ca)
 
 ---
 ### phone:
 
- ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jorge &nbsp;&nbsp;[416 876 7229](tel:+14168767229)    
- ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mark &nbsp;&nbsp;[647 702 1231](tel:+16477021231)
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jorge &nbsp;&nbsp;[416 876 7229](tel:+14168767229)    
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mark &nbsp;&nbsp;[647 702 1231](tel:+16477021231)
 
 ---
 ![DD Team](/webDSCF7700.jpg)
