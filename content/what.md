@@ -66,11 +66,11 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 
 - ## Personal and Consumer Products
 
-  - Small pieces such as custom millwork pulls to help you truely customize your home.
+  - Small pieces such as custom millwork pulls to help you truly customize your home.
 
   - We can help you translate a product idea that has been rattling around in your head into set of resolved design drawings, 3D models, and renderings.
     - Whether it's a kitchen gadget with minimal moving parts
-    - Or a beautiful form to house your Stratup's newest innovation.
+    - Or a beautiful form to house your Startup's newest innovation.
   - We can also prototype your design to help resolve it in hand at 1:1 scale, tweak it further, and use to help get your product to market.
   - Packaging. Your shiny new product will probably need something to protect it as it ships from Point A to B to your Customer. We can help you design that as well.
     - We prefer to design packaging in a manner than minimalizes environmental impact where possible.
