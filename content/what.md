@@ -10,7 +10,7 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 #### **These are some of the hats we wear the most around here:** 
 
 # Architecture
-- ### RESIDENTIAL
+- ## RESIDENTIAL
   - **SINGLE FAMILY**
     - Typically this falls into two categories (new builds and renovations/additions):
       * **New build**
@@ -27,7 +27,7 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 
 
 ---
-- ### COMMERCIAL
+- ## COMMERCIAL
   *This is a broad area as well. However, if you are looking at this section you likely already have some previous experience we can build on. However if this is your first time designing and building out your new commercial space don't worry, we will work with you whether you are a landlord or tenant. We will take you through concept to opening and everything in between.*
   - Office fit-outs
     - Whether a small modification or a complete redesign of a space we can plan your space to make it look seamless. We can also help you achieve all the latest health and safety requirements we face in today’s office spaces.
@@ -43,12 +43,12 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 
 
 ---
-- ### INDUSTRIAL
+- ## INDUSTRIAL
   *We won't spend too much time on this because it is such a rare animal, but if you have a small business that would like to begin manufacturing within the urban fabric of the City in the dwindling industrial zones, call us and let's work through designing a space to suit your needs and budget. These types of spaces and communities are vital to our neighbourhoods and shouldn't all slowly be rezoned for another condo tower.* 
 
 
 ---
-- ### COORDINATION
+- ## COORDINATION
   - We work and coordinate with all types of consultants whenever it is required or necessary consultant expertise is needed.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
   - We have worked with some really great engineers and other consultants whose creative problem solving skills and experience have proved vital to every project. 
@@ -58,17 +58,23 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 
 # Industrial Design
 
-- **custom furniture and millwork design**
+- ## Custom Furniture and Millwork Design
 
   - This is a service that we sometimes provide our residential and commercial clients. However, if you already have the canvas we would be happy to design the pieces to populate them for you. There are many options for fabricating/manufacturing them depending on the scale and budget, but we can help you navigate that as well using our existing contacts or helping you vet new ones.
 
-  - mass production
+  - Do you want to design custom line of furniture pieces that you would like to market and sell? Do you need to find or vet a manufacturer? We can help you with this as well.
 
-- **products**
+- ## Personal and Consumer Products
 
-  - one-off
+  - Small pieces such as custom millwork pulls to help you truely customize your home.
 
-  - mass production
+  - We can help you translate a product idea that has been rattling around in your head into set of resolved design drawings, 3D models, and renderings.
+    - Whether it's a kitchen gadget with minimal moving parts
+    - Or a beautiful form to house your Stratup's newest innovation.
+  - We can also prototype your design to help resolve it in hand at 1:1 scale, tweak it further, and use to help get your product to market.
+  - Packaging. Your shiny new product will probably need something to protect it as it ships from Point A to B to your Customer. We can help you design that as well.
+    - We prefer to design packaging in a manner than minimalizes environmental impact where possible.
+  - We can also help you find or vet a manufacturer when you are ready for production.
 
 ---
 # Building Science
