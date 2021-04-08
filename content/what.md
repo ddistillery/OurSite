@@ -80,11 +80,11 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 # Building Science
   *This sounds like a no-brainer when it comes to designing your forever home…however, in our experience performance within the walls/floors/roof assemblies is the first thing that gets cut in the construction budget in favour of more expensive surface material finishes that will be seen. Unfortunately it is a lot more difficult talking a client into investing in the performance of their home than it is to talk them out of it. The science and building materials are evolving at a much  faster rate than minimum code. Since the work of implementing performance materials and strategies is often tedious and are typically hidden within the walls, please consider that there may be potential biases when being talked out of them and remember that you and your families will be the ones actually living in those spaces for the long term. We sit down with our clients and have a frank discussion about budgets and guide them on important places to invest.*
 
-- **performance materials and assembly design**
+- **Performance Materials and Assembly Design**
 
-- **reduced environmental impact**
+- **Reduced Environmental Impact / Energy Savings over the Life of the Building**
 
-- **research and theory are a great place to start but we also like to test**
+- **Research and Theory are a great place to start but we also like to Test and Tighten during construction**
 
 ---
 # Pre-purchase Assessments
