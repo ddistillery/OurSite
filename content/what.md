@@ -6,45 +6,53 @@ author: ""
 
 We wear many hats in this office. Much of this stems from a broad base of root interests and experience that has grown and enriched as we have advanced in our professional careers. 
 
-**These are some of the hats we wear the most around here** *(without trying to emphasize the ones we would like to wear more of)***:**
+
+#### **These are some of the hats we wear the most around here:** 
 
 # Architecture
 - ### RESIDENTIAL
   - **SINGLE FAMILY**
     - Typically this falls into two categories (new builds and renovations/additions):
       * **New build**
-        - You have a site that you want to build a house on or you would like to replace an existing house.
+        - You have a site and you want to build a house or would like to tear down an existing house and replace it with a new one.
       * **Renovation / Addition**
-        - You have an existing house that is just not working for your personal or family needs. You can reconfigure the building envelope you have now, or you could also potentially extend your living space outward or even upward.
+        - You have an existing house that is just not working for you. You can reconfigure it, or you can potentially extend your living space outward or even upward.
   - **DUAL FAMILY**
-    - This is a trend we are seeing more of with the skyrocketing cost of real estate. Two families are buying a house together and reconfiguring it to contain two separate units with the potential to split the space load for utility and storage common spaces.  
+    - A trend we are seeing more of with the skyrocketing cost of real estate.
+    - Two families are buying a house together and reconfiguring it to contain two separate units with the potential to share the space load for utility and storage common spaces.
   - **MULTI FAMILY**
-    - Typically this falls into the realm of developers, however some ambitious potential homeowners do not accept that they have been priced out of the real estate market and forge a path forward. With pooled resources and a sense of unconventional adventure there are some real interesting opportunities to be found. Give us a call if you are part of one of these groups. We would love to dig in with you and help you navigate the terrain.
-    - There are also many old urban rooming houses that are slowly being converted by investors into single family dwellings. There are other ways forward that can still turn investors a profit when executed well. If you have existing multi-unit status already grandfathered-in why wouldn't you take full advantage of the value in that? We can help you investigate what is possible and design you a solution that leverages the added value inherent in your legal-non-conforming status.
+    - Typically this falls into the realm of developers and if you are one you likely know what you want and need. 
+    - However, some ambitious potential homeowners who do not accept that they have been priced out of the real estate market are looking for ways to forge a path forward. With pooled resources and a sense of unconventional adventure there are some really interesting opportunities to be found. We would love to dig into the details with you and help you navigate the terrain.
+    <!-- There are also many old urban rooming houses that are slowly being converted by investors into single family dwellings. There are other ways forward that can still turn investors a profit when executed well. If you have existing multi-unit status already grandfathered-in why wouldn't you take full advantage of the value in that? We can help you investigate what is possible and design you a solution that leverages the added value inherent in your legal-non-conforming status.-->
 
 
 ---
 - ### COMMERCIAL
-  *This is a broad area as well. If you are looking at this section you likely already have some previous experience we can build on. However if this is your first time designing and building out your new commercial space don't worry, we will work with you to get from concept to opening.*
-  - Office fitouts
+  *This is a broad area as well. However, if you are looking at this section you likely already have some previous experience we can build on. However if this is your first time designing and building out your new commercial space don't worry, we will work with you whether you are a landlord or tenant. We will take you through concept to opening and everything in between.*
+  - Office fit-outs
+    - Whether a small modification or a complete redesign of a space we can plan your space to make it look seamless. We can also help you achieve all the latest health and safety requirements we face in today’s office spaces.
   - Retail infrastructure
-  - Retail spaces
-    - If you have multiple locations we can also work with you to create fixtures and furniture that speak to your brand and can be used cohesively across locations
+    - If you are a Landlord with a dated retail property and are looking to refresh or upgrade it in any way, we can help you plan out and execute a refreshed plan for the property that will bring it to the present day with an understanding of the future needs of your building.
+  - Retail fit-outs
+    - Whether you are a Landlord or a Tenant we can help you through planning, design and construction phases of a project.
+    - If you have multiple locations we can also work with you to create fixtures and furniture that speak to your brand and can be used cohesively across locations.
   - Hospitality
-    - Hotel
-    - Food and beverage spaces
+    - Restaurants
+    - Cafe
+    - Boutique Hotels
+
 
 ---
 - ### INDUSTRIAL
-  *We won't spend too much time on this because it is such a rare animal, but if you have a small business that would like to begin manufacturing within the urban fabric of the City in the dwindling industrial zones, call us and let's work through designing you a space to suit your needs and budget. These types of spaces and communities are vital to our neighbourhoods and shouldn't all slowly be rezoned for another condo tower.* 
+  *We won't spend too much time on this because it is such a rare animal, but if you have a small business that would like to begin manufacturing within the urban fabric of the City in the dwindling industrial zones, call us and let's work through designing a space to suit your needs and budget. These types of spaces and communities are vital to our neighbourhoods and shouldn't all slowly be rezoned for another condo tower.* 
 
 
 ---
-- ### COORDINTAION
-  - We work with consultants whenever it can help the project.
+- ### COORDINATION
+  - We work and coordinate with all types of consultants whenever it is required or necessary consultant expertise is needed.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
-  - We have worked with some really great Structural and Mechanical Engineers whose creative problem solving skills and experience are vital to every project. 
-  - Coordination with these consultants should start early enough in the design process to be integral rather than an after-though, and will continue well into construction.
+  - We have worked with some really great engineers and other consultants whose creative problem solving skills and experience have proved vital to every project. 
+  - Coordination with these consultants should start early enough in the design process to be integral rather than an after-thought, and will continue well into construction.
 
 ---
 
@@ -75,17 +83,17 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 ---
 # Pre-purchase Assessments
 
-*Did you find a house in a neighbourhood that you love and really want to put an offer in on but are worried about what you can build on that location or if there are any other benefits/issues that you are likely not seeing in the listing...we can dig deeper than most*
+*Did you find a house in a neighbourhood that you love and really want and are considering making an offer but are worried about what you can build on that location or if there are any other benefits/issues that you are likely not seeing in the listing...we can help you quickly dig deeper*
 
-- **What we would look for:**
+- **What we can help define for you:**
   - Current Zoning
   - Current Open Permits
-  - existing Easements and Rights-of-Way over that property
+  - Existing Easements and Rights-of-Way over the property
   - Property areas, setbacks, height restrictions, allowable coverage.
     - What can you potentially build there and stay within the Zoning ByLaw
     - What will push you over what is allowed and may require Committee of Adjustment approval.
   - Is any part of the property protected (Urban Forestry; Ravine; Archeological Significant area) in a manner that could affect your plans to build?
 
-- **We will credit you all fees paid!** If you do purchase the home and would like to hire us for the remainder of the design and permit work we would be happy to apply all applicable fees as credit towards that work.
+- If you do purchase the home and would like to hire us for the remainder of the design and permit work we would be happy to apply all applicable fees as credit towards that work.
 
 [- back to top -](#)

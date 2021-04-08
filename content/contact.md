@@ -19,19 +19,19 @@ author: ""
 
 ---
 
-### Are we a good fit?
+### Are we a good fit for you?
 
-- So you want to do something interesting, but now what?  Is you home no longer working for you (or did it ever)?  Is it a small tweak or do you want to start from scratch?  
+- So you want to do something interesting, but now what?  Is your home no longer working for you (or did it ever)?  Is it a small tweak or do you want to start from scratch?  
 > [**We should talk.**](mailto:contact@design-distillery.ca)
 
 
-- Do you want a completely tailored solution down to every material choice?  Or do you just need a design that wooks and a building permit so you and your builder can pick up from there? Are you somewhere in between?  
+- Do you want a completely tailored solution down to every material choice? Or, do you just need a design that works and a building permit so you and your builder can pick up from there? Are you somewhere in between?  
 > [**We should talk.**](mailto:contact@design-distillery.ca)
 
-- Do you have an idea for a custom piece of furnature or built-in or want custom door knobs or cabinet pulls?  
+- Do you have an idea for a custom piece of furniture or built-in or want custom door knobs or cabinet pulls?  
 > [**We should talk.**](mailto:contact@design-distillery.ca)
 
-- You don't know what you want yet, but want some guidence.  
+- You don't know what you want yet, but want some guidance.  
 > [**We should talk.**](mailto:contact@design-distillery.ca)
 
 - Do you want something cookie-cutter that is the same as your neighbours and friends?  
