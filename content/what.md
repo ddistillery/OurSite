@@ -46,14 +46,14 @@ We wear many hats in this office. Much of this stems from a broad base of root i
 - ## INDUSTRIAL
   *We won't spend too much time on this because it is such a rare animal, but if you have a small business that would like to begin manufacturing within the urban fabric of the City in the dwindling industrial zones, call us and let's work through designing a space to suit your needs and budget. These types of spaces and communities are vital to our neighbourhoods and shouldn't all slowly be rezoned for another condo tower.* 
 
-
+<!--
 ---
 - ## COORDINATION
   - We work and coordinate with all types of consultants whenever it is required or necessary consultant expertise is needed.
     - Why spread yourself out playing all of the positions when you can assemble a dream team?
   - We have worked with some really great engineers and other consultants whose creative problem solving skills and experience have proved vital to every project. 
   - Coordination with these consultants should start early enough in the design process to be integral rather than an after-thought, and will continue well into construction.
-
+-->
 ---
 
 # Industrial Design
