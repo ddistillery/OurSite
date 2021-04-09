@@ -13,7 +13,7 @@ We save the sugar-coating for our donuts; **Design Distillery is a design studio
 <!--![DD Team](/webDSCF7700.jpg)-->
 
 <!--![Jorge Silva](/JorgeSilva_icon.jpg)-->
-![Jorge Silva](/Jorge_800.jpg)
+![Jorge Silva](/DesignDistillery_Jorge.jpg)
 **Jorge Silva**, OAA, MArch, BArchSci  
 *Director of Practice*  
 > &nbsp;Jorge is a designer and licenced architect who began the early part of his career on the West Coast of Canada. There he experienced working on a variety of large scale projects in the commercial, healthcare, transportation and residential sectors. He relocated to Toronto while pursuing his Master of Architecture degree and never left. Since then he has focused his energy on residential, commercial retail, and hospitality projects. Jorge's wiring is detail-oriented but creativity-driven.  His calm demeanor is balanced with his passion for sport which keeps his heart rate up - whether in running shoes, hockey skates, or watching his teams play.
@@ -25,7 +25,7 @@ He went on to pursue a Masters of Architecture degree in Toronto where his studi
 -->
 
 <!--![Mark Friesner](/MarkFriesner_icon.jpg)-->
-![Mark Friesner](/Mark_800.jpg)
+![Mark Friesner](/DesignDistillery_Mark.jpg)
 **Mark Friesner**, MIndD, MArch, BEnvD  
 *Director of Design*
 > &nbsp;Mark brings to the Distillery backgrounds in both Architecture and Industrial design, which he mixes with contemporary building science to push each new project further than the last. Mark has spent the majority of his architecture career focused on high-end residential design, design-build, and working through details with builders, carpenters, and fabricators. Spending the early part of his career designing retail and hospitality spaces, including custom fixtures and furniture. Mark likes to balance time spent behind a desk with time spent getting his hands dirty; whether it's building something new or fixing something old. And when the lighting is right you can often find him on the street with a camera over one eye.
