@@ -6,7 +6,7 @@ rssLimit  = 5  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 metaDescription = ""
-googleAnalytics = "G-L04J5DN8MN"
+googleAnalytics = "UA-188960200-3"
 
 twitterName = "dsgn_dstllry"
 instaName = "design.distillery"
