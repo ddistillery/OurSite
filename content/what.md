@@ -73,7 +73,7 @@ We wear many hats in this office. Much of this stems from a broad base of root i
     - Or a beautiful form to house your Startup's newest innovation.
   - We can also prototype your design to help resolve it in hand at 1:1 scale, tweak it further, and use to help get your product to market.
   - Packaging. Your shiny new product will probably need something to protect it as it ships from Point A to B to your Customer. We can help you design that as well.
-    - We prefer to design packaging in a manner than minimalizes environmental impact where possible.
+    - We prefer to design packaging in a manner than minimizes environmental impact where possible.
   - We can also help you find or vet a manufacturer when you are ready for production.
 
 ---
