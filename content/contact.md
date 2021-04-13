@@ -16,11 +16,11 @@ Having 'the right fit' with our clients is equally important to us. In the spiri
 
 # How do we connect?
 
-### email:
+***email:***
  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@design-distillery.ca](mailto:contact@design-distillery.ca)
 
 ---
-### phone:
+***phone:***
 
  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jorge &nbsp;&nbsp;[416 876 7229](tel:+14168767229)    
  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mark &nbsp;&nbsp;[647 702 1231](tel:+16477021231)
