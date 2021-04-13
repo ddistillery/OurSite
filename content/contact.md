@@ -1,8 +1,20 @@
 ---
-title: "How do we connect?"
+title: "Our Work."
 date: ""
 author: ""
 ---
+If you have clicked on this page then we are optimistic that you have a project and would like to see how our past work aligns with your style, scale, and ambition for it.  
+
+<!--
+Please [contact us](mailto:contact@design-distillery.ca) and let's talk a bit about what you would like to do so we can tailor a package of past projects best suited for you. 
+Then let's follow up and talk about it some more.
+-->
+
+**Please [contact us](mailto:contact@design-distillery.ca) for examples of our work, and we will send you a package aligned with what you are looking to do with your own project.**
+
+Having 'the right fit' with our clients is equally important to us. In the spirit of cultivating great working relationships we are committed to investing our time into these early discussions. So let's talk. We will learn about you and your project, you will learn about us and at the very least get some direction that you didn't have before picking up the phone.
+
+# How do we connect?
 
 ### email:
  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@design-distillery.ca](mailto:contact@design-distillery.ca)

@@ -4,10 +4,14 @@ date: ""
 author: ""
 ---
 
+Design Distillery listens carefully to the needs of our clients and guides them confidently forward through the design process. We work with you collaboratively to create a solution and plan to achieve it that is not only appropriate today but anticipates your needs tomorrow. 
+
+<!--
 We wear many hats in this office. Much of this stems from a broad base of root interests and experience that has grown and enriched as we have advanced in our professional careers. 
+-->
 
-
-#### **These are some of the hats we wear the most around here:** 
+![DD Under Construction](/UnderConstructionComposite2_800.jpg)
+#### **These are some of the hats we wear:** 
 
 # Architecture
 - ## RESIDENTIAL
