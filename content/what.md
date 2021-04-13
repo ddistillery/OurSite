@@ -10,7 +10,7 @@ Design Distillery listens carefully to the needs of our clients and guides them 
 We wear many hats in this office. Much of this stems from a broad base of root interests and experience that has grown and enriched as we have advanced in our professional careers. 
 -->
 
-![DD Under Construction](/UnderConstructionComposite2_800.jpg)
+![DD Under Construction](/UnderConstructionComposite2_800.png)
 #### **These are some of the hats we wear:** 
 
 # Architecture
